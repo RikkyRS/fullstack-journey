@@ -23,7 +23,7 @@ segurança ofensiva e defensiva.
 ## Progresso atual
 **Mês 1 — Linux Terminal**
 - [x] Bandit OverTheWire níveis 0–15
-- [ ] Git e GitHub
+- [x] Git e GitHub
 - [ ] Como a internet funciona
 
 ## Stack em aprendizado
