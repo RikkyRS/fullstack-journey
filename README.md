@@ -24,7 +24,7 @@ segurança ofensiva e defensiva.
 **Mês 1 — Linux Terminal**
 - [x] Bandit OverTheWire níveis 0–15
 - [x] Git e GitHub
-- [ ] Como a internet funciona
+- [x] Como a internet funciona
 
 ## Stack em aprendizado
 - Linux • Bash
