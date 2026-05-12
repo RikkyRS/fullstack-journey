@@ -8,7 +8,7 @@ segurança ofensiva e defensiva.
 
 ## Roadmap
 - [x] Mês 1 — Linux Terminal + Git
-- [ ] Mês 2 — Redes + Python
+- [x] Mês 2 — Redes + Python
 - [ ] Mês 3 — Web + OWASP
 - [ ] Mês 4 — JavaScript + Neo4j
 - [ ] Mês 5 — React + Cypher intermediário
