@@ -37,8 +37,8 @@ Conseguir minha primeira vaga como desenvolvedor Full Stack júnior em 12 meses,
 - [x] CSS Foundations (The Odin Project)
 - [x] DNS in Detail (TryHackMe)
 - [x] HTTP in Detail (TryHackMe)
-- [ ] Flexbox (The Odin Project)
-- [ ] OWASP Top 10 (rápido)
+- [x] Flexbox (The Odin Project)
+- [x] OWASP Top 10 (rápido)
 
 ## Conquistas
 - ✅ OverTheWire Bandit — níveis 0 a 15
