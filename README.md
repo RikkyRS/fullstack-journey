@@ -10,7 +10,7 @@ Conseguir minha primeira vaga como desenvolvedor Full Stack júnior em 12 meses,
 ### Fase 1 — Fundação (Meses 1-3)
 - [x] Mês 1 — Linux + Git + Internet
 - [x] Mês 2 — Redes + Python + SQL
-- [ ] Mês 3 — HTML/CSS sólido + Web fundamentals
+- [x] Mês 3 — HTML/CSS sólido + Web fundamentals
 
 ### Fase 2 — JavaScript (Meses 4-5)
 - [ ] Mês 4 — JavaScript moderno (ES6+) profundo
