@@ -1,59 +1,29 @@
-# Full Stack Journey 🚀
+# Full Stack Journey
 
-Documentação da minha jornada de 12 meses para me tornar desenvolvedor Full Stack com diferencial em IA.
+Registro de estudo de 2026, de quando eu saí da indústria e decidi virar desenvolvedor Full Stack. Guardo aqui como histórico: o plano que escrevi, o que fiz no começo e onde isso foi parar.
 
-## Objetivo
-Conseguir minha primeira vaga como desenvolvedor Full Stack júnior em 12 meses, dominando JavaScript, React, Node.js e integração com IA.
+## O plano original (junho de 2026)
 
-## Roadmap
+Um roadmap de 12 meses: fundação (Linux, Git, redes, SQL, HTML/CSS), JavaScript, back-end com Node e PostgreSQL, TypeScript, IA, DevOps e mercado.
 
-### Fase 1 — Fundação (Meses 1-3)
-- [x] Mês 1 — Linux + Git + Internet
-- [x] Mês 2 — Redes + Python + SQL
-- [x] Mês 3 — HTML/CSS sólido + Web fundamentals
+O que registrei como feito nos primeiros meses:
 
-### Fase 2 — JavaScript (Meses 4-5)
-- [ ] Mês 4 — JavaScript moderno (ES6+) profundo
-- [ ] Mês 5 — React + projeto SPA real
+- HTML e CSS Foundations, Flexbox (The Odin Project)
+- DNS e HTTP em detalhe (TryHackMe) e OWASP Top 10
+- OverTheWire Bandit, níveis 0 a 15
+- SQLZoo, módulos 1 e 2
+- Início do bacharelado em Engenharia de Software (UniCesumar)
 
-### Fase 3 — Back-end (Meses 6-7)
-- [ ] Mês 6 — Node.js + Express + APIs REST
-- [ ] Mês 7 — PostgreSQL avançado + Projeto Full Stack #1
+Os exercícios dessa fase estão nos repositórios do Odin Project, em Ruby e em SQL aqui no perfil.
 
-### Fase 4 — TypeScript + IA (Meses 8-9)
-- [ ] Mês 8 — TypeScript + Next.js
-- [ ] Mês 9 — Prompt Engineering + Integração com IA
+## Onde isso foi parar
 
-### Fase 5 — DevOps + Portfolio (Meses 10-11)
-- [ ] Mês 10 — Testes + Docker + AWS básico + CI/CD
-- [ ] Mês 11 — Projeto Full Stack #2 com IA + Portfolio
+O plano andou mais rápido que o roadmap. Hoje trabalho com desenvolvimento e com IA aplicada:
 
-### Fase 6 — Mercado (Mês 12)
-- [ ] Mês 12 — Candidaturas + Entrevistas + Primeira vaga
+- [Pipeline CRM](https://github.com/RikkyRS/user-management-api): CRM multiempresa no ar, com demo pública
+- [Agente do CRM](https://github.com/RikkyRS/agente-crm): agente de IA com tool calling, MCP e evals
+- [JARVIS](https://github.com/RikkyRS/Jarvis): runtime open source que governa agentes de IA
+- [Pergunte ao meu currículo](https://github.com/RikkyRS/pergunte-ao-curriculo): RAG com evals
+- [Portfólio interativo](https://github.com/RikkyRS/portfolio)
 
-## Progresso atual
-**Mês 3 — Web e HTML/CSS em andamento**
-- [x] HTML Foundations (The Odin Project)
-- [x] CSS Foundations (The Odin Project)
-- [x] DNS in Detail (TryHackMe)
-- [x] HTTP in Detail (TryHackMe)
-- [x] Flexbox (The Odin Project)
-- [x] OWASP Top 10 (rápido)
-
-## Conquistas
-- ✅ OverTheWire Bandit — níveis 0 a 15
-- ✅ SQLZoo módulos 1 e 2 (7/7)
-- ✅ Projeto odin-recipes publicado
-- ✅ Cursando Engenharia de Software (UniCesumar)
-
-## Stack
-**Dominando:** Linux • Git • HTML5 • CSS3 • SQL (PostgreSQL)  
-**Em andamento:** Python • JavaScript  
-**Próximos:** React • Node.js • TypeScript • Next.js • IA
-
-## Projetos
-- [odin-recipes](https://github.com/RikkyRS/odin-recipes) — HTML/CSS
-- [Agenda API](https://github.com/RikkyRS/Agenda_api) — Node.js + APIs REST
-
-## Contato
-[LinkedIn](https://www.linkedin.com/in/henriqueotta) • [GitHub](https://github.com/RikkyRS)
+Perfil completo: [github.com/RikkyRS](https://github.com/RikkyRS) · [LinkedIn](https://www.linkedin.com/in/henrique-otta-rodrigues)
